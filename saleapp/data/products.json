@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "samsung galaxy",
+    "price": 4000,
+    "image":"https://cdn.tgdd.vn/Products/Images/42/329149/iphone-16-pro-max-sa-mac-thumb-1-600x600.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 2,
+    "name": "macbook pro",
+    "price": 7000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/329149/iphone-16-pro-max-sa-mac-thumb-1-600x600.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 3,
+    "name": "iphone 17",
+    "price": 5000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/329149/iphone-16-pro-max-sa-mac-thumb-1-600x600.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 4,
+    "name": "tablet pro",
+    "price": 4500,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/329149/iphone-16-pro-max-sa-mac-thumb-1-600x600.jpg",
+    "cate_id": 3
+  },
+  {
+    "id": 5,
+    "name": "lenovo thinkbook",
+    "price": 4800,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/342667/iphone-17-xanh-duong-thumb-2-600x600.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 6,
+    "name": "samsung tab S9",
+    "price": 6000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/342667/iphone-17-xanh-duong-thumb-2-600x600.jpg",
+    "cate_id": 3
+  },
+  {
+    "id": 7,
+    "name": "samsung S25 ultra",
+    "price": 4000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/342667/iphone-17-xanh-duong-thumb-2-600x600.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 8,
+    "name": "samsung J7",
+    "price": 2000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/342667/iphone-17-xanh-duong-thumb-2-600x600.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 9,
+    "name": "iphone air",
+    "price": 5000,
+    "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/341837/tecno-spark-go-2-xanh-thumb-638899027806878098-600x600.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 10,
+    "name": "lenovo thinkpad",
+    "price": 7000,
+    "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/341837/tecno-spark-go-2-xanh-thumb-638899027806878098-600x600.jpg",
+    "cate_id": 1
+  },
+  {
+    "id": 11,
+    "name": "oppo reno",
+    "price": 4500,
+    "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/341837/tecno-spark-go-2-xanh-thumb-638899027806878098-600x600.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 12,
+    "name": "oppo pad",
+    "price": 6000,
+    "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/341837/tecno-spark-go-2-xanh-thumb-638899027806878098-600x600.jpg",
+    "cate_id": 3
+  },
+  {
+    "id": 13,
+    "name": "xiaomi pad",
+    "price": 4400,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/342676/iphone-17-pro-cam-thumb-600x600.jpg",
+    "cate_id": 3
+  },
+  {
+    "id": 14,
+    "name": "dell inspiron",
+    "price": 6500,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/342676/iphone-17-pro-cam-thumb-600x600.jpg",
+    "cate_id": 1
+  }
+]
